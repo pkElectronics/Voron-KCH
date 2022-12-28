@@ -12,5 +12,5 @@ From the experience of printing multiple kits per week, we came up with a "quali
 The folders contain commented slicer screenshots showing all the necessary parts for your build, assorted into the different categories and assembly subunits. When parts are optional or there is a choce to make, this is noted too. Currently, all current VORON printers are include (2.4, Trident, 0.1) as well as the Stealthburner and the TAP. The Enderwire will be added later.
 Simply print the images on standard DIN A4 paper and place every part in it's dedicated spot. Make sure to use the "scale to fit paper" option to ensure that everything fits as intended.
 
-![Parts](/Example.jpg)
+![Parts](/Example.JPG)
 
